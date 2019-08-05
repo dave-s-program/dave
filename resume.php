@@ -73,7 +73,7 @@ Copyright &copy;<script>document.write(new Date().getFullYear());</script> All r
             <li>
               <h3>Desktop Support Engineer/Web Developer</h3>
               <p class="date">February 2019 - Present</p>
-              <p>Address: #8 Washington Street, Davao City, Davao City, 8000 Davao del Sur</p>
+              <p>Bluetell Outsourcing Services Inc. Address: #8 Washington Street, Davao City, Davao City, 8000 Davao del Sur</p>
             </li>
           </ul>
         </div>
